@@ -1,9 +1,9 @@
-#HOME
-![example](home.png)
-#OWNER NFT
-![example](owner.png)
-#CREATE NFT
-![example](create.png)
+# HOME
+![example](home.PNG)
+# OWNER NFT
+![example](owner.PNG)
+# CREATE NFT
+![example](create.PNG)
 # Install with `npm`.
 ```sh
 npm i 
